@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chirag396rathod/crud-react/static/css/main.835a4ee5.css",
+    "main.js": "/chirag396rathod/crud-react/static/js/main.ef00cb61.js",
+    "index.html": "/chirag396rathod/crud-react/index.html",
+    "main.835a4ee5.css.map": "/chirag396rathod/crud-react/static/css/main.835a4ee5.css.map",
+    "main.ef00cb61.js.map": "/chirag396rathod/crud-react/static/js/main.ef00cb61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835a4ee5.css",
+    "static/js/main.ef00cb61.js"
+  ]
+}
